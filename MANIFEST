@@ -11,4 +11,5 @@ README
 t/10pod.t
 t/11pod_coverage.t
 t/20compile.t
+t/30parse_line.t
 TODO

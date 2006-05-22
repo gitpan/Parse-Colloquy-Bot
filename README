@@ -1,5 +1,5 @@
 NAME
-    Parse::Colloquy::Bot - Parse Colloquy Bot/Client Terminal Output
+    Parse::Colloquy::Bot - Parse Colloquy bot/client terminal output
 
 SYNOPSIS
      use strict;
@@ -48,13 +48,14 @@ EXAMPLE
                              'neech'
                            ],
               'respond' => undef,
+              'time' => 1148224087,
             };
 
 SEE ALSO
     Colloquy::Data, Colloquy::Bot::Simple, Chatbot::TalkerBot
 
 VERSION
-    $Id: Bot.pm 465 2006-05-19 20:55:11Z nicolaw $
+    $Id: Bot.pm 483 2006-05-22 21:36:46Z nicolaw $
 
 AUTHOR
     Nicola Worthington <nicolaw@cpan.org>
